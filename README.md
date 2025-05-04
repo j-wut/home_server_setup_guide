@@ -7,3 +7,4 @@ links to setup guides for home server
 
 ## Setup Email Sending
 1. [cloudflare -> gmail](https://gist.github.com/irazasyed/a5ca450f1b1b8a01e092b74866e9b2f1)
+2. [Setup msmtp](https://wiki.archlinux.org/title/Msmtp)
